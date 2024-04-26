@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head><title>LEGENDARY SANINS LEAF</title></head>
+<body>
+
+
+<header>
+<a href="index.html">
+
+<img src="IMG/lologo.jpg">
+
+
+</a>
+</header>
+<hr>
+<nav.
+<table cellspacing="5" cellpadding"5">
+<tr>
+<td>TOAD</td>
+<td>SNAKE</td>
+<td>SLUG</td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>SUMMONING JUTSU</h2>
+
+<p>
+LEGENDARY SANINS - The Ability and the story of the three Sanin
+</p>
+
+
+<p><strong>Jiraya (TOAD SAGE)</strong></p>
+
+<img src="IMG/TOAD.jpg">
+
+
+<ul>
+<li> Jiraya - was one of Konohagakure's Sannin. Famed as a hermit and pervert of stupendous ninja skill, Jiraiya travelled the world in search 
+of knowledge that would help his friends, the various novels he wrote, and, posthumously, the world in its entirety – knowledge that would be 
+passed on to his godson and final student, Naruto Uzumaki.</li>
+
+
+<p><strong>Orochimaru (SNAKE)</strong></p>
+
+<img src="IMG/SNAKE.jpg">
+
+
+<ul>
+<li>Orochimaru - is one of Konohagakure's legendary Sannin. With a life-ambition to learn all of the world's secrets, Orochimaru seeks immortality so that he might live all of the lives necessary to accomplish his task. 
+After being caught red-handed performing unethical experiments on his fellow citizens for the sake of this immortality, Orochimaru defected from Konoha rather than be persecuted for his ambitions, and for many years sought
+the village's destruction in order to take revenge and demonstrate what he had learned. After several apparent deaths in the pursuit of his goals, Orochimaru realises his approach is flawed through Kabuto Yakushi, his former
+associate, and begins monitoring the choices and actions of his former apprentice, Sasuke Uchiha.</li>
+
+
+<p><strong>Tsunade (SLUG)</strong></p>
+
+<img src="IMG/SLUG.jpg">
+
+
+<ul>
+<li>Tsunade (綱手) is a descendant of the Senju and Uzumaki Clan, and is one of Konohagakure's Sannin. She is famed as the world's strongest kunoichi and its greatest medical-nin. The repeated loss of her loved ones caused Tsunade
+to later abandon the life of a shinobi for many years. She is eventually persuaded to return to Konoha and take on the mantle of Fifth Hokage (五代目火影, Godaime Hokage, literally meaning: Fifth Fire Shadow), where her skills prove
+invaluable to the village.</li>
+
+</body>
